@@ -11,9 +11,7 @@ Simple CRUD website for student data by combining Laravel 11 and React Framework
 
 ## Screenshots
 
-![App Screenshot: Data is empty](./Documentation/Website/Empty%20Student%20Data.png)
 ![App Screenshot: List student](./Documentation/Website/List%20Student.png)
-![App Screenshot: Add student](./Documentation/Website/Add%20Student.png)
 
 
 ## Features
